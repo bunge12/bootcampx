@@ -1,3 +1,4 @@
 SELECT name, id, email, cohort_id
 FROM students
-WHERE phone IS NULL AND email NOT LIKE '%@gmail.'
+WHERE end_date IS NULL
+ORDER BY cohort_id;
