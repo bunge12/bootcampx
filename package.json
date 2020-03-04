@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bunge12/bootcampx/issues"
   },
-  "homepage": "https://github.com/bunge12/bootcampx#readme"
+  "homepage": "https://github.com/bunge12/bootcampx#readme",
+  "dependencies": {
+    "pg": "^7.18.2"
+  }
 }
